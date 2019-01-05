@@ -1,0 +1,138 @@
+
+
+
+body{
+	background-image:url(magic.jpg);
+}
+
+h1{
+	position:absolute;
+	left:129px;
+	top:1400px;
+	font-size:1;
+	color:#000000;
+	text-shadow:3px 3px 3px #000000;
+	font-family:arial;
+}
+
+a{
+	position:absolute;
+	left:615px;
+	top:46px;
+	color:545454;
+	font-size:30px;
+	font-family:Gabriola;
+	text-shadow:1px 1px 0px #1C1001;
+	text-decoration: none;
+}
+
+a:hover {
+	font-weight:bolg;   
+	Color:#FFFE9E;
+}
+
+
+#moya_ssilka{
+	font-family:gabriola;
+	position:absolute;
+	left:550px;
+	top:43px;
+	font-size:30;
+	color:#36260B;
+	
+}
+
+#moya_ssilka:hover{
+	color:#FFFE9E;
+}
+
+
+
+#moya_ssilka1{
+	font-family:gabriola;
+	position:absolute;
+	left:725px;
+	top:43px;
+	font-size:30;
+	color:#36260B;
+	
+}
+#moya_ssilka1:hover{
+	color:#FFFE9E;
+}
+
+
+#moya_ssilka2{
+	font-family:gabriola;
+	position:absolute;
+	left:910px;
+	top:43px;
+	font-size:30;
+	color:#36260B;
+	
+}
+#moya_ssilka2:hover{
+	color:#FFFE9E;
+}
+
+
+
+
+
+
+
+#A1{
+	color:#000000;
+	position:absolute;
+	left:180px;
+	top:340px;
+	font-family:Gabriola;
+	font-size:25px;
+	}
+	
+#A1:hover{
+	color:#03998A;
+}
+	
+
+#A2{
+	color:#000000;
+	position:absolute;
+	left:220px;
+	top:360px;
+	font-family:Gabriola;
+	font-size:25px;
+	}
+	
+#A2:hover{
+	color:#EB5498;
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
